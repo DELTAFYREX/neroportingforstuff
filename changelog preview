@@ -1,0 +1,557 @@
+<div class="slider2">
+    <h1 class="slider2">Update 3.2</h1>
+    <date class="slider2">[2024]</date>
+    <ul class="slider2">
+        <li>Fixed Undertow</li>
+        <li>Added Surge</li>
+        <li>Moved Music Checkbox</li>
+        <li>Bugfixes</li>
+        <li>Added Katana</li>
+        <li>Addded Risk Gamemode</li>
+        <li>Changed look of Revolutionist branch</li>
+        <li>Skin Issue Fix</li>
+        <li>Added Mini Defender</li>
+        <li>Integrated Lancer into Main & Added More Lancer Things</li>
+        <li>buffed kiva</li>
+        <li>menu tweaks</li>
+        <li>Added new servers and domain</li>
+        <li>Necromancer Rebalance + Gun Rework</li>
+        <li>Added more killstreak messages and an extra bonus at 100 kills :)</li>
+        <li>small server side optoimizations</li>
+        <li>added mobile controls :D (now you can play on the go)</li>
+        <li>added versitile switching from between pc and mobile controls in the menu</li>
+        <li>super huge bugfixes and balancing</li>
+        <li>fixed surge and added lancer range stat</li>
+        <li>fixed game crashing bug (i put two square brackets)</li>
+        <li>added respawn cooldown and tips n stuff</li>
+        <li>added /menu command</li>
+        <li>added custom keybinds</li>
+        <li>fixed bug where toggables do not work</li>
+        <li>fixed maze wall size bug</li>
+        <li>fixed death sound bug</li>
+        <li>fixed missing upgrades</li>
+        <li>added propel branch</li>
+        <li>added new extra tanks</li>
+        <li>added jouster branch</li>
+        <li>fixed mockups bug</li>
+        <li>fixed physics bugs</li>
+        <li>fixed machine gun bullet size</li>
+        <li>fixed sidewinder bug</li>
+        <p style="color:red;" class="vsaucereference" onclick="PlaySoundpianioio()" >RANDOM BULLSHIT, GO!</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 3.1</h1>
+    <date class="slider2">[2024]</date>
+    <ul class="slider2">
+        <li>Fixed date since counter</li>
+        <li>Added BackShield & Mirror Shield</li>
+        <li>Fixed Tag Gamemode</li>
+        <li>Removed Stats Temporarily</li>
+        <li>Changed Bot Leveling</li>
+        <li>Nerfs & Buffs</li>
+        <li>Reorganized Entities</li>
+        <li>Added New Color System</li>
+        <li>Fixed Color System</li>
+        <li>New DFX Maze Map</li>
+        <li>Added Apotheosis V2 & Depredation Remastered V2 By Deltafyrex and Killa By Action Agenda (DFX Edit) To OST</li>
+        <li>Fixed Siege</li>
+        <li>Fixed Movement System</li>
+        <li>Fixed Death Sounds</li>
+        <li>Revamped Menu Popups</li>
+        <li>Added TwinSniper Branch And More to Acid And Chiller Branch</li>
+        <li>Fixed Music Bug, And Added Aura Basic, Jump Smasher And Whirlwind To The Main game</li>
+        <li>Fixed Shields</li>
+        <li>Moved Aura From Tier 3 To Tier 2 And Added Aura Branch</li>
+        <li>Added Flail & Buffed Auras</li>
+        <li>Added Firecracker, Douverie & Auto-2 Branch</li>
+        <li>Added Brella (upgrades from backshield) And Lancer Branch</li>
+        <li>Added More Options For Quality Of Life Features</li>
+        <li>Added New Achievements & Skins</li>
+        <li>Fixed Player Skin Bug</li>
+        <li>Fixed Color System Again And Added Glow + Nerfs/Buffs And other Bug Fixes</li>
+        <h2>Update 3.11 [2024]</h2>
+        <li>Fixed Desmos + 8 New OST Tracks</li>
+        <li>Added Music Selector And Fixed Music Bugs</li>
+        <li>Added In Game Audio Visualizer</li>
+        <li>Fixed Server Selector</li>
+        <li>Added A Beta Cocci</li>
+        <li>Small Menu & Ui Updates</li>
+        <li>Fixed Desmos AI Bug & Undertow</li>
+        <li>Nerfed Some Things</li>
+        <p style="color:red;" class="vsaucereference" onclick="PlaySoundholeymoley()" >Holay Molay</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 3.0</h1>
+    <date class="slider2">[2024]</date>
+    <ul class="slider2">
+        <li>Added Clubbin</li>
+        <li>Testing Achievements</li>
+        <li>Added Reset Achievements Button</li>
+        <li>Added Start Achievement</li>
+        <li>Added and Fixed Achievement Details</li>
+        <li>Added Disconnect, Lag, And Killstreak Achievement</li>
+        <li>Removed Kill Achievement cuz it dont work</li>
+        <li>Added New Special Achievement Type</li>
+        <li>Added Special Piss.io Achievement And Funny Skype Achievement</li>
+        <li>Re-Added And Fixed 5 Killstreak Achievement Again</li>
+        <li>Added Server to Client Functions</li>
+        <li>Added 10 Killstreak Achievement</li>
+        <li>Changed Debug Menu</li>
+        <li>Added Kill Amount In Debug</li>
+        <li>Added Audio Visualizer in the title screen</li>
+        <li>Fixed Embed Not Working Properly</li>
+        <li>Fixed Bug Where Audio Visualizer Appears In Game</li>
+        <li>Added Token And Discord Achievement</li>
+        <li>Added Achievements Tab</li>
+        <li>Removed Ach Testing</li>
+        <li>Added Credits Button</li>
+        <li>fixed credits interfering with changelog</li>
+        <li>added credits-changelog animation transition</li>
+        <li>moved credits button (its 1:08 am im soooooo tired)</li>
+        <li>Fixed Game Breaking Bug</li>
+        <li>Added Contagion Branch To Subduer & Trapper</li>
+        <li>Added Longing And Resurgam By Amaryllis To The OST</li>
+        <li>added credits ach</li>
+        <li>Added 2 New Branches For Desmos</li>
+        <li>Testing Skins</li>
+        <li>Added Beta Skin Menu</li>
+        <li>Fixed Skin Bug</li>
+        <li>Fixed Crashing On Respawn</li>
+        <li>Added More Detail To Skin Menu</li>
+        <li>Added Cat Code and Chickensandwhichman Skin</li>
+        <li>Added Daily Tanks</li>
+        <li>Added Plenty New Skins, New Achievements And Made Achievements Unlockable</li>
+        <li>Added Skater & Hitman</li>
+        <li>Added New "Duality" Map</li>
+        <h2>Update 2.93 [2024]</h2>
+        <li>David Goggins Event</li>
+        <li>Updated Menu</li>
+        <li>Added Marksman Branch To Sniper And Car Branch To </li>
+        <li>Added Trollface Emote (add --troll to the end of a chat message)</li>
+        <li>Added Waterfall, Acid, Cooler, Rainmaker And New Options Layout</li>
+        <li>Added Notes Tab + Live Counter</li>
+        <li>Added More Customization, Graphics, Helecopter And Fixed Music Bug</li>
+        <li>Added Reverie Branch And Injector</li>
+        <li>Added Debugger Menu</li>
+        <li>You Can Now Color Messages With §</li>
+        <p style="color:red;">Niners fucking lost Again Bruh...Fuck Taylor Swift</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.9</h1>
+    <date class="slider2">[2024]</date>
+    <ul class="slider2">
+        <li>Added Motor</li>
+        <li>Added Kivaaharatedas (i did not spell that right)</li>
+        <li>Added Equilibrium, Revobrid, Subverter</li>
+        <li>shrapnel testing</li>
+        <li>removed unfinished aimbot/boosting testing</li>
+        <li>Added Basic Hybrid Tier 3 branch</li>
+        <li>Bug Fixed Colors</li>
+        <li>Added Tanks of my friends and tank soundboard support</li>
+        <li>Added the rest of the Basic Hybrid branch (tier 4)</li>
+        <li>Fixed changelog not appearing</li>
+        <li>Added beta music support including 5 songs</li>
+        <li>changed start button look to not shade out and actually work like a button</li>
+        <li>fixed debug key (again)</li>
+        <li>fixed screen tearing</li>
+        <li>worked bullet spawn position</li>
+        <li>Better organized dev menu and changed the way utilities looks</li>
+        <li>Added music recognition in the debug key to see the song name & artist</li>
+        <li>Added new song (Anybody can find Love (except You) by hkmori</li>
+        <li>fixed debug not recognizing a song and not updating after a song is finished</li>
+        <li>Testing wall colors/effects</li>
+        <li>Added Shield Turrets</li>
+        <li>Added new tiles (dance floor+black)</li>
+        <li>added new "banquet" map</li>
+        <li>Finished Revolutionist Branch</li>
+        <li>Added Inception & Albuquerque</li>
+        <li>im a fucking moron</li>
+        <li>Added Machceptioner & Tailgator</li>
+        <li>Added Interceptor, Twinceptioner, Inceptionist branch, hybrid/auto ver of inception branch</li>
+        <li>Added Desmos/Inception/Bascrid Ception</li>
+        <li>fixed the ceptionist turrets/autobullet turrets</li>
+        <li>nerfed shit</li>
+        <li>fixed some upgrades not appearing</li>
+        <li>no players (dead game and nobody plays is sadly)</li>
+        <li>so it turns out i forgot to give twinceptionist the right bullets so i fixed that :/</li>
+        <li>fixed flankcept branch turrets</li>   
+        <h2>Update 2.91 [2024]</h2>
+        <li>Added the subduer branch</li>
+        <li>Fixed The Rest of the menu buttons and fixed sound effects</li>
+        <li>Added flankduer</li>
+        <li>Added Binary branch, Pathogen branch, mitochondrion branch, Subduer-Hybrid branch and Auto-Subduer Branch</li>
+        <li>fixed missing upgrades</li>
+        <p style="color:red;" class="vsaucereference" onclick="PlaySound99()" >Hey! vsauce, Michael here. the game is stable and non buggy...or is it?</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.8</h1>
+    <date class="slider2">[2023]</date>
+    <ul class="slider2">
+        <li>Tank Adding Wave Two (ex. hadron, dictator, railgun + more)</li>
+        <li>Debug Key Bug Fix (how ironic)</li>
+        <li>Fixed Rng Images Bugging Out</li>
+        <li>Testing Whirlwind Branch</li>
+        <li>Fixed Maze Gamemode</li>
+        <li>Added Tooltips (beta)</li>
+        <li>Added Status Effects (beta+devevent)</li>
+        <li>Added Addon Support</li>
+        <li>Fixed button Shadows</li>
+        <li>Upgraded APS++ Updating Speed</li>
+        <li>New Mouse Controller</li>
+        <li>Keybind Fix</li>
+        <li>Enter can cancel a chat message being sent</li>
+        <li>CoNgReGaTiOn JuMpScArEs</li>
+        <li>Images on Tanks/Sound Effects For Tanks (dev)</li>
+        <li>Blackhole (dont ask just roll with it)</li>
+        <li>P A P Y R U S</li>
+        <li>Fixed Some Lag Holding Down Server Speed</li>
+        <li>109.43.21.5.14</li>
+        <li>Added Desmos Branch</li>
+        <li>Theres Prob More But I Forgor</li>
+        <p style="color:red;">wahhh... (i forgor why im crying)</p>
+    </ul>
+</div>
+<div class="slider2"> <!-- Copy this whole div block to add another changelog -->
+    <h1 class="slider2">Update 2.7</h1> <!-- This is the title -->
+    <date class="slider2">[2023]</date> <!-- This is the date -->
+    <ul class="slider2">
+        <li>Debuffed Many Tanks</li> <!-- Copy <li>Change 1</li> and paste it below the other lis to add another change -->
+        <li>Migrated to new host</li>
+        <li>Removed all Nero Exclusive Tanks From The Game (for now anyway, dont worry)</li>
+        <li>Added "revolutionist" to testbed"</li>
+        <li>Massive Testbed overhaul</li>
+        <li>Added a funny randomly generated image on the start screen</li>
+        <li>Readded Sounds, design and other previous widgets</li>
+        <li>Hired new devs</li>
+        <li>did some tweaks to bots</li>
+        <li>got rid of the "nero" theme and the server list</li>
+        <li>added easter eggs</li>
+        <li>added random funny image</li>
+        <h2>Update 2.71 [2023]</h2>
+        <li>Tank Adding Wave One (ex. auto branch, revolutionist, cloner + more)</li>
+        <li>plenty of new dev features</li>
+        <li>added gamemode polls (once theres enough people)</li>
+        <p style="color:red;">There are Easter Eggs All Over The Main Menu, You Might Find Something...</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.6</h1>
+    <date class="slider2">[2023]</date>
+    <ul class="slider2">
+        <li>replaced smashers origional upgrade path with the "armoury" tree -added lancer and smasher upgrades to armoury tree</li>
+        <li>added "Sword", "Injector" and "Fencer" to lancer upgrades</li>
+        <li>buffed drone tanks, twin tanks & tank health</li>
+        <li>added "Dictator" -added "Tripwire"</li>
+        <li>added "Barricade", "Twister", "Cyclone" and "Architect" -added "Tri-Trapper" tree -added "auto tritrapper", "auto armour" and "autolancer"</li>
+        <li>added "eagle" and "bulwark"</li>
+        <li>updated debug menu</li>
+        <li>removed hivemind from basic</li>
+        <li>added cloner upgrade</li>
+        <li>added hivemind and "splitter" to cloner upgrade</li>
+        <li>added "auto cloner", "auto flamethrower", "flamethrower hybrid" and "lancer hybrid"</li>
+        <li>updated colorscheme and other color related things</li>
+        <li>updated teams on 2tdm after 3 team bug -added all new Rock Maze gamemode</li>
+      <p style="color:red;">Ryerson Loves Burger King</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.5</h1>
+    <date class="slider2">[2023]</date>
+    <ul class="slider2">
+        <li>added new tanks into beta for further testing</li>
+        <li>hired new devs</li>
+        <li>neroio discord is up</li>
+        <li>added new mascallenus tank and section</li>
+        <li>hired new beta testers</li>
+        <li>added new easter eggs</li>
+        <li>tested 2nd server opening</li>
+        <li>added "Scanner" and "hadoken"</li>
+        <li>nerfed Hahaugobrr</li>
+        <li>promoted lucas medieros to co-owner of the game</li>
+        <li>demoted a few staff</li>
+        <li>added 2TDM game mode</li>
+        <li>woomy event is back! now with free access to testbed</li>
+        <li>added "flankdrive", "twindrive" and "machinedrive"</li>
+        <li>fixed trapper look</li>
+        <li>added "infantry", "musket", "Traprid", "Auto Traprid", "Snigrav", "AsWdragafora", "Assasolak", "Builifacate", "Rifagiulus", "Auto Snigrav"</li>
+        <li>added "flamethrower", "Baker", "Wildfire" and "Equinox"</li>
+        <li>new nero.io default theme instead of using arras's</li>
+        <li>added insane af tanks to testbed</li>
+        <li>added "lancer"</li>
+      <p style="color:red;">Open Na Noor</p>
+          </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.4</h1>
+    <date class="slider2">[2023]</date>
+    <ul class="slider2">
+        <li>added 2 new admin commands</li>
+        <li>added homing auto Basic</li>
+        <li>added bosses tab to AIT</li>
+        <li>bwomp AA $$ €€</li>
+        <li>added easter egg name colors</li>
+        <li>added the tanks "mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", and "neptune"</li>
+        <li>added a new boss</li>
+        <li>added more natural spawning bosses</li>
+        <li>added "SpawnTrap"</li>
+        <li>updated bot names</li>
+        <li>ended woomy event</li>
+      <p style="color:red;">Oh great red Text of the Changelog, What is your Wisdom?</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.3</h1>
+    <date class="slider2">[2023]</date>
+    <ul class="slider2">
+        <li>added "maleficator", "stalker", "landmine", "jumpsmash", "speedbent", "heavy3", and re-added "twindrive", "interceptioner", the "drive" subtree to autobasic, plus increased map size</li>
+        <li>fixed and debuffed jumpsmash</li>
+        <li>debuffed speedbent</li>
+        <li>added a public changelog (the one your looking at now)</li>
+        <li>added the red text</li>
+        <li>updated sounds and styles</li>
+        <li>added the "corrupted" button</li>
+      <p style="color:red;">So Hows Ur Day?</p>
+
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.2</h1>
+    <date class="slider2">[2023]</date>
+    <ul class="slider2">
+        <li>added more tanks into beta</li>
+        <li>added sounds and updated client backround</li>
+        <li>Decoration finished</li>
+        <li>started decoration on migration host</li>
+        <li>added chat feature</li>
+        <li>migration big fixes</li>
+        <li>WE DID IT! MIGRATION COMPLETE!</li>
+        <li>during migration found multiple small bugs that was fixed</li>
+        <li>2nd failed migrating attempt, starting yet another</li>
+        <li>fixed crashing bug</li>
+        <li>2nd attempt at migrating</li>
+        <li>added random bot and skill classes</li>
+        <li>made bots more op</li>
+        <li>fixed a bot bug</li>
+        <li>downgraded bots</li>
+        <li>added tank visualizers</li>
+        <li>buffed bots a tiny bit more</li>
+        <li>fixed visualizer bug</li>
+        <li>added "rifle"</li>
+        <li>fixed "lilfact" upgrade path</li>
+        <li>added auto "lilfact"</li>
+        <li>renamed "lilfact" to "spawner"</li>
+        <li>added secret tanks for update 2.3</li>
+        <li>minor crash bug fixes</li>
+        <li>removed "rifle" and "autospawner" from beta</li>
+        <li>fixed smasher bug</li>
+        <li>failed "lancer" class attempt</li>
+        <li>secret tank updates</li>
+        <li>major bug fixes</li>
+        <li>rainbow color old client fix</li>
+        <li>last patches before big update</li>
+        <li>fixed tiny bug</li>
+      <p style="color:red;">I Know Where You Live</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.1</h1>
+    <date class="slider2">[2022]</date>
+    <ul class="slider2">
+        <li>fixed the 2 game crashing bugs</li>
+        <li>tried to migrate to another server host but yet failed due to unknown reasons</li>
+        <li>added "speedbent" to beta</li>
+        <li>updated messages</li>
+      <p style="color:red;">tbh im sad the 49ers missed the super bowl :/</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 2.0</h1>
+    <date class="slider2">[2021]</date>
+    <ul class="slider2">
+        <li>brought the ception tree into beta tanks</li>
+        <li>figured out that the "ceptions" arent really ceptions</li>
+        <li>forgot to add the actual way to access it LOL, also added a REAL machine ceptionist as a test</li>
+        <li>removed ceptionist and drive tanks as they are too overpowered</li>
+        <li>added lazer guns</li>
+        <li>stole code from someone elses server</li>
+        <li>added beta shock and burn</li>
+        <li>added some secret really stupid tanks</li>
+        <li>fixed a tank</li>
+        <li>removed revolutionist for being too buggy</li>
+        <li>added new auto class branch</li>
+        <li>added hivemind</li>
+        <li>bug fixes</li>
+        <li>major bug that caused no tanks to be added or bugs fixed causing confusion</li>
+        <li>crashing bug made game unplayable for large amount of time (like a whole 9 months)</li>
+      <p style="color:red;">Whats Up Guys Quandale Dingle Here</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.9</h1>
+    <date class="slider2">[2021]</date>
+    <ul class="slider2">
+        <li>testing in progress</li>
+        <li>approved multiple tanks into the game</li>
+        <li>did some stupidity and added random stuff and figured out that there is indeed, 12882 lines of code in this project</li>
+        <li>added some dumb tanks like "mInIfLyInGfAsTeRtHiNgY"</li>
+        <li>added some cool colored objects on the "AsWdWsA" branch</li>
+        <li>added a secret tank</li>
+        <li>messed with some things like homing bullets</li>
+        <li>removed the homing stuff due to bugs</li>
+        <li>tried to recreate the "revolutionist" tank from woomy arras</li>
+        <li>more tests</li>
+        <li>added auto bullets</li>
+        <li>added drive tanks into beta testing phase</li>
+        <li>moved where the secret tank is</li>
+        <li>debuffed "single"</li>
+        <li>added "Cascal", "Gunto", "Catalyst", And "Cescav" to beta tanks</li>
+        <li>added a beta version of the drive tree into the game after some testing</li>
+      <p style="color:red;">What A Dumb Fucking Game!</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.8</h1>
+    <date class="slider2">[2021]</date>
+    <ul class="slider2">
+        <li>completed and put the poison function into the game</li>
+        <li>completed and put the freeze function into the game</li>
+        <li>created a seprate freeze and poison bullets</li>
+        <li>added a stun function</li>
+        <li>added a healing and speed function</li>
+        <li>added a stun, healing and speed bullet shooting tanks</li>
+        <li>added the "AsWdWsA" branch</li>
+        <li>fixed poison cannon</li>
+        <li>renamed the bullets to respected name</li>
+        <li>renamed the cannons to a respected name</li>
+        <li>created a page 2 for the mascallenus</li>
+        <li>put multitanks into testbed</li>
+        <li>put multitanks into testbed</li>
+        <li>organized the tanks</li>
+        <li>removed public testbed</li>
+<p style="color:red;">:skull:</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.7</h1>
+    <date class="slider2">[2020]</date>
+    <ul class="slider2">
+        <li>added an admin logger</li>
+        <li>changed the AI color to pink</li>
+        <li>changed AI to have twin upgrade instead of basic</li>
+        <li>expanded the map</li>
+        <li>changed the colors of the spawning player to be random instead of always red or blue</li>
+        <li>added the tanks "oof" and "oof2" to mascallenus</li>
+        <li>added the tank "minibee" to testbed</li>
+        <li>added the tank "hexa trapper" into the game</li>
+        <li>added the tank "Paint Brush" into the crayon tree</li>
+        <li>added the tank "brutalizer"</li>
+        <li>added "sidewinder"</li>
+<p style="color:red;">Share with your friends!</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.6</h1>
+    <date class="slider2">[2020]</date>
+    <ul class="slider2">
+        <li>added the tank "tower mech"</li>
+        <li>added the "AIT" category into testbed</li>
+        <li>added a way to get back to a basic tank after becoming testbed</li>
+        <li>added the tank "crayon"</li>
+        <li>added the two tanks "marker" and "pastel"</li>
+        <li>added the tank "pen"</li>
+        <li>added a kill button to testbed</li>
+        <li>added the tank "highlighter"</li>
+        <li>added a way to immediatly upgrade into a basic trapper</li>
+        <li>invited some friends to help code my game</li>
+<p style="color:red;">Yo shout out to Lucas Medeiros</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.5</h1>
+    <date class="slider2">[2020]</date>
+    <ul class="slider2">
+        <li>removed jesus donut</li>
+        <li>removed DeltaCannon</li>
+        <li>fixed some bugs with AI's</li>
+        <li>fixed some bugs with crashers and bosses</li>
+        <li>added a bunch of testbed tanks into the real thing</li>
+        <li>removed fairsquare</li>
+        <li>added flame killa to testbed</li>
+        <li>removed access to the recently added tanks from testbed to save space</li>
+        <li>added Boxer to testbed</li>
+        <li>removed every testbed tank</li>
+        <li>added categories to test bed like "beta" and "mascallenus"</li>
+<p style="color:red;">come down today and try some corn, or we will sacrifice your newborn</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.4</h1>
+    <date class="slider2">[2020]</date>
+    <ul class="slider2">
+        <li>added Lottery to testbed</li>
+        <li>added hellblazer and Rocketer to testbed</li>
+        <li>added Nautilus to testbed</li>
+        <li>added jesus donut to testbed</li>
+        <li>experimented with bullet effects</li>
+        <li>added SleamShot</li>
+        <li>added TrapHard into testbed</li>
+<p style="color:red;">LMFAO WHAT A BOZO</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.3</h1>
+    <date class="slider2">[2020]</date>
+    <ul class="slider2">
+        <li>added master</li>
+        <li>added lilfact</li>
+        <li>fixed bug with bots</li>
+        <li>fixed bug with lilfact</li>
+        <li>ADDED PUBLIC TESTBED</li>
+        <li>fixed some bugs</li>
+        <li>fixed testbed problems</li>
+        <li>fixed testbed key errors regarding platform</li>
+        <li>added helltank to testbed</li>
+        <li>added DeltaCannon to testbed</li>
+<p style="color:red;">DrUgS aRe BaD fOr YoU1!1!</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.2</h1>
+    <date class="slider2">[2020]</date>
+    <ul class="slider2">
+        <li>server shutdown due to server problems</li>
+        <li>fixed problem</li>
+        <li>fixed some more bugs</li>
+        <li>fixed bug with the upgrades</li>
+        <li>added 3 pre-made extra tanks (hive shooter, auto assassin, auto cruiser)</li>
+        <li>added Unlocked</li>
+        <li>added more ways to get hive shooter</li>
+        <li>added more ways to get unlocked</li>
+        <li>added bots</li>
+        <li>fixed bad bug with Unlocked</li>
+<p style="color:red;">tbh play a better game than this</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.1</h1>
+      <date class="slider2">[2019]</date>
+    <ul class="slider2">
+        <li>added revix</li>
+        <li>added DeltaGunner</li>
+<p style="color:red;">OH BABY A TRIPLE</p>
+    </ul>
+</div>
+<div class="slider2">
+    <h1 class="slider2">Update 1.0</h1>
+    <date class="slider2">[2019]</date>
+    <ul class="slider2">
+        <li>just opened server</li>
+        <li>testing new tanks</li>
+<p style="color:red;">Bwomp</p>
+    </ul>
+</div>
+You've Reached The End <a class="menuTab ???" onclick="PlaySound68()" onmouseover="PlaySound68()" title=":{]4*($812904sdfas0fasdfasdfasdfhsdfonaen*&$#(*nhH*)($H0::{}|;..0$*((*)$afds&!@)(*#$@&2)fhea)}" href="https://msfart.glitch.me/popup.html" target="_blank" rel="noopener noreferrer">?̵̛̤̱̯͕̠̘̬̦̟̼̏͆̍̋̀̃͋͑̈́̂̎̉͒́̇̋͗̆͗̿́́̃́͗̉̈́̓̓͒̑̌͊̎͗̕̚̕͜͠͠͝͠͠?̵̧̢̨͉̹̥̩͕͙̦̞̹͙̣̱̪̫͚͚̋͐̒͐̈́͠?̶̡̢͈̮͉͕̩̣̘͚̳̳̺̹̜̺̹͙̼̤̼̱̣̭̪̘̖̊̅̽̃̎͋̽̇͂͆̽̃̇̏͒͋͗̾̀̉̐͘͜͠?̷̧̧̨̡̛̛̪̠̝̖̪̖͓̝̖̣͖͚̖̗̼̬̯̦̹̯͖̮̥͚͓̙͇̥̼͍̠̟̙̫̫̞̆̔́̊̆̓̿́̑̇̅̄̀̑̄̇̆̀̓͐̾̄̽̒̃͝͝ͅ?̶̢̧̢̢̧̧̛̣̳̮̝̳̞̞̙̟͓̝̬̤͎̂͛͆̓͑̌͌̂̽</a>

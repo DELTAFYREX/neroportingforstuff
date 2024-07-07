@@ -1,0 +1,33 @@
+  <script type="text/javascript">
+<!--
+ var currentdatea = 0;
+ var image_numbera = 0;
+ function ImageArraya (n) {
+   this.length = n;
+   for (var i =1; i <= n; i++) {
+     this[i] = ' '
+   }
+ }
+ imagea = new ImageArraya(9)
+ imagea[0] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-11-2-9-15-39.gif?v=1702385998261' //def.gif
+ imagea[1] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-11-2-9-17-44.gif?v=1702386021674' //slices
+ imagea[2] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-12-12-10-47-6.gif?v=1702390642498' //pulse waves
+ imagea[3] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-11-2-9-22-40.gif?v=1702386045756' //dots
+ imagea[4] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-11-2-9-24-47.gif?v=1702386051248' //faint
+ imagea[5] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-12-12-10-46-41.gif?v=1702390646360' //white pulse waves
+ imagea[6] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-12-12-10-42-0.gif?v=1702390649599' //pulse
+ imagea[7] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-12-12-10-39-41.gif?v=1702390653878' //avarian
+ imagea[8] = 'https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/MOSHED-2023-12-12-10-37-55.gif?v=1702390656549' //void
+ var randa = 60/imagea.length
+ function randomimagea() {
+ 	currentdatea = new Date()
+ 	image_numbera = currentdatea.getSeconds()
+ 	image_numbera = Math.floor(image_numbera/randa)
+ 	return(imagea[image_numbera])
+ }
+var endaa = ');">'
+var benignging = '<body oncontextmenu="return false" id="mainBody" style="background-size: cover; background-image: url('
+var savea = randomimagea()
+document.write(benignging + "'" + save + "'" + endaa);
+//-->
+</script>         
